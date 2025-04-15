@@ -12,18 +12,8 @@ A simple and visually appealing Todo application built with React and styled usi
 * 🎨 Clean and professional user interface inspired by Serio Verify colors.
 * 📱 Responsive design (basic, can be further enhanced).
 
-## 🖼️ Screenshot
+## ![image](https://github.com/user-attachments/assets/f3b91d24-56a6-42b4-a42a-570630db9272) ,![image](https://github.com/user-attachments/assets/cd702a37-a64c-4f91-a344-15e929e15c3b)
 
-![Todo App Screenshot](YOUR_SCREENSHOT_URL_HERE)
 
-## 🛠️ Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### `git clone`
-
-Clone the repository to your local machine:
-
-```bash
-git clone YOUR_REPO_URL
-cd YOUR_REPO_NAME
